@@ -1,0 +1,48 @@
+{
+   "gallery": {
+      "galleryhead": "Sendak - Melville books",
+      "gallerydate": "01/27/2017",
+      "galleryyear": "2018",
+      "galleryid": "411811335",
+      "comscorekw": "pageview_candidate",
+      "omday": "Monday",
+      "omtime": "4:30PM",
+      "omdaytype": "Weekday",
+      "channel": "entertainment",
+      "photo": [
+         {
+            "caption": "Herman Melville's \"Typee: Residence in the Marquesas.\"",
+            "title": "SENDAK_MelvilleB1",
+            "photoCredit": "",
+            "slideNumber": "photo 1 - 411811335 - SENDAK_MelvilleB1",
+            "emailThis": "http://www.philly.com/philly/gallery/Sendak_-_Melville_books.html#photoNumber=0",
+            "photoWidth": "1200",
+            "photoHeight": "800",
+            "reprint": "true",
+            "_name": "http://media.philly.com/images/600*450/SENDAK_MelvilleB1.jpg"
+         },
+         {
+            "caption": "\"Timoleon\" - a \"black tulip,\" or extremely rare book - with Herman Melville's signature cut in.",
+            "title": "SENDAK_MelvilleB2",
+            "photoCredit": "",
+            "slideNumber": "photo 2 - 411811335 - SENDAK_MelvilleB2",
+            "emailThis": "http://www.philly.com/philly/gallery/Sendak_-_Melville_books.html#photoNumber=1",
+            "photoWidth": "1200",
+            "photoHeight": "800",
+            "reprint": "true",
+            "_name": "http://media.philly.com/images/600*450/SENDAK_MelvilleB2.jpg"
+         },
+         {
+            "caption": "Herman Melville's \"The Marquesas.\"",
+            "title": "SENDAK_MelvilleB3",
+            "photoCredit": "",
+            "slideNumber": "photo 3 - 411811335 - SENDAK_MelvilleB3",
+            "emailThis": "http://www.philly.com/philly/gallery/Sendak_-_Melville_books.html#photoNumber=2",
+            "photoWidth": "1200",
+            "photoHeight": "800",
+            "reprint": "true",
+            "_name": "http://media.philly.com/images/600*450/SENDAK_MelvilleB3.jpg"
+         }
+      ]
+   }
+}

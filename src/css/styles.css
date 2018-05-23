@@ -1,0 +1,26 @@
+@import "style-hc.css";
+@import "longform-styles";
+
+
+header.header.clear-header {
+    /* background: transparent; */
+    height: auto !important;
+}
+.brandlockup-logo {
+    padding: 15px 0 15px 15px;
+}
+
+
+.footerWrapper {
+    /* margin-top: 15px; */
+}
+.adUnitWrapper {
+    display: none;
+}
+#recircBox {
+    display: none;
+}
+
+body, html {
+    font-size: 16px;
+}
